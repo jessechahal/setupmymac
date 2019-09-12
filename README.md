@@ -1,4 +1,6 @@
-
+- General
+  - Add CMD+L as lockscreen shortcut
+    - setup hotcorner screensaver + lockscreen?
 - AppStore
   - the unarchiver
   - xCode
