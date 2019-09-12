@@ -1,16 +1,37 @@
 - General
   - Add CMD+L as lockscreen shortcut
     - setup hotcorner screensaver + lockscreen?
+  - Preferances
+    - dont rearrance spaces based on most recent use
+    - Allow running apps from internet
+    - disable sound effects on boot
+    - Password after sleep or screensaver
+    - screenshots directory & auto save screenshots there
+    - perform search in current directory first by default
+    - disable warning when changing file extension
+    - avoid creating .DS_Store files on volumes or USB drives
+    - Apps
+      - Apple Mail
+        - Copy email address as foo@example.com instead of foo bar \<foo@example.com\>
+      - iterm2
+        - set status bar up
+        - change background
+        - change theme to minimal
+        - don't display prompt when quitting
+      - Activity Monitor
+        - Visualize CPU usage on dock icon
+    - Toolbar Menu
+      - Show battery percentage
+      - show volume bar
+      -
+- Theme
+  - Dark mode
+  - Background?
 - AppStore
   - the unarchiver
   - xCode
   -
 
-- Terminal
-  - iterm2
-    - set status bar up
-    - change background
-    - change theme to minimal
 - Kubernetes
   - docker for mac
   - brew
