@@ -40,3 +40,8 @@
       - kubectl
     - kubectx
     - octant
+    -
+- AWS
+  - awscli
+  - https://github.com/awslabs/git-secrets
+  -
