@@ -7,6 +7,14 @@
     - spotify
     - dockutil
       - used if you want to modify mac Dock from CLI. common command on new Mac's is to remove all items from dock
+    - mas
+      - https://github.com/mas-cli/mas
+      - a cli tool for install mac app store applications
+    - bitwarden
+      - better password manager then lastpass
+      - has dark theme
+      - is open-source
+      - ability to run server yourself in docker container
   - Add CMD+L as lockscreen shortcut
     - setup hotcorner screensaver + lockscreen?
   - Preferances
