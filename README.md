@@ -55,6 +55,9 @@
   - Microsoft Remote Desktop 10
   - Telegram
 
+- Local Sys Admin
+  - Etcher
+    - for burning ISOs to USB drives
 
 - Terminal
   - .oh-my-zsh
@@ -121,3 +124,8 @@
 
 References
 - http://sourabhbajaj.com/mac-setup/
+
+
+
+Support installation of drivers
+- https://github.com/Homebrew/homebrew-cask-drivers
